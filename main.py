@@ -8,7 +8,7 @@ import fun  # развлечения
 import speech
 import SECRET  # секретные ключи, пароли
 
-bot = telebot.TeleBot(SECRET.TELEGRAM_TOKEN)  # Создаем экземпляр бота
+bot = telebot.TeleBot(5112099975:AAF4_2svFifCIPpPMCi0OOm_dqli-gCe1wo)  # Создаем экземпляр бота
 
 
 # -----------------------------------------------------------------------
